@@ -1,5 +1,6 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
+// import NavBar from './NavBar'
 // import Nav from './Nav'
 
 const View = () => {
@@ -16,7 +17,7 @@ const View = () => {
 
   return (
     <div>
-        {/* <Nav /> */}
+        {/* <NavBar/> */}
         <h1>View Car</h1>
 <div className="container">
     <div className="row">
